@@ -39,6 +39,13 @@ npm install
 npm run dev
 ```
 
+Setup requires:
+
+- GEMINI_API_KEY
+- MONGO_URI
+
+Create a .env file with these variables before running the project.
+
 ## Demo
 
 Live Demo: https://watchful-guide-app.lovable.app/app
