@@ -31,13 +31,6 @@ npm install
 npm run dev
 ```
 
-Create a `.env` file:
-
-```env
-GEMINI_API_KEY=your_api_key
-MONGO_URI=your_mongodb_uri
-```
-
 ### Frontend
 
 ```bash
